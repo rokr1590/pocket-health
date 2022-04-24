@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958603488504",
+    "project_id": "pockethealth-b2081",
+    "storage_bucket": "pockethealth-b2081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958603488504:android:ce2fdeed0f9935b4cc9f0d",
+        "android_client_info": {
+          "package_name": "com.example.pocket_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958603488504-1rju37u7klghmm9le7b9ceras2gsp5v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocket_health",
+            "certificate_hash": "00af2b04507e3bf8a2242ce5caeeb9841279e75c"
+          }
+        },
+        {
+          "client_id": "958603488504-6ioepq4jb3t9ujmvttvlu25tfjmgffsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34WIIK5Mpd1zjulm07JQBFipzogF0IXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958603488504-6ioepq4jb3t9ujmvttvlu25tfjmgffsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
