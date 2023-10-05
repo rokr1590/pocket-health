@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
         body: Column(
           children: [
             Container(
-              padding: EdgeInsets.all(20),
+              padding: const EdgeInsets.all(20),
               child: Image.asset(
                 'assets/img/titleImage.png',
                 fit: BoxFit.scaleDown,
@@ -26,20 +26,20 @@ class HomeScreen extends StatelessWidget {
                   children: [
                     Container(
                       width: double.infinity,
-                      padding: EdgeInsets.only(left: 20),
+                      padding: const EdgeInsets.only(left: 20),
                       child: Text(
                         'Hello there ,'+user.displayName!,
-                        style: TextStyle(fontFamily: 'Acme', fontSize: 28),
+                        style: const TextStyle(fontFamily: 'Acme', fontSize: 28),
                       ),
                     ),
                     Container(
                       width: double.infinity,
-                      padding: EdgeInsets.only(
+                      padding: const EdgeInsets.only(
                         left: 20,
                         top: 10,
                         bottom: 20,
                       ),
-                      child: Text(
+                      child: const Text(
                         'We wish you have a good day',
                         style: TextStyle(
                           fontFamily: 'Acme',
@@ -51,14 +51,14 @@ class HomeScreen extends StatelessWidget {
                     Container(
                       width: double.infinity,
                       padding:
-                      EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceAround,
                         children: [
                           Stack(
                             children: [
                               ClipRRect(
-                                borderRadius: BorderRadius.all(
+                                borderRadius: const BorderRadius.all(
                                   Radius.circular(10),
                                 ),
                                 child: Image.asset(
@@ -73,7 +73,7 @@ class HomeScreen extends StatelessWidget {
                           Stack(
                             children: [
                               ClipRRect(
-                                borderRadius: BorderRadius.all(
+                                borderRadius: const BorderRadius.all(
                                   Radius.circular(10),
                                 ),
                                 child: Image.asset(
@@ -124,7 +124,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(
+                    const SizedBox(
                       height: 10,
                     )
                   ],

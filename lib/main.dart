@@ -3,9 +3,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:pocket_health/google_signin.dart';
 import 'package:pocket_health/home_bottom_bar.dart';
-import 'package:pocket_health/home_screen.dart';
+//import 'package:pocket_health/home_screen.dart';
 import 'package:provider/provider.dart';
-import 'package:pocket_health/user_profile.dart';
+//import 'package:pocket_health/user_profile.dart';
 
 
 Future main() async{
