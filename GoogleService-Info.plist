@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>958603488504-4814trljmqsrkhdic8al80j2f4ft544p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.958603488504-4814trljmqsrkhdic8al80j2f4ft544p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>958603488504-1rju37u7klghmm9le7b9ceras2gsp5v2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlM2wodfJkpVQeruLyaBffLv4pBakcnxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958603488504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pocketHealth</string>
+	<key>PROJECT_ID</key>
+	<string>pockethealth-b2081</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pockethealth-b2081.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958603488504:ios:bd6366c2ccb25c05cc9f0d</string>
+</dict>
+</plist>
